@@ -1,7 +1,7 @@
 I'm Alexander Rodriguez and i work as Developer Semi Senior.
 
 * I have 2 years working on Development Java/SpringBoot and Python/Django as Backend Developer.
-* I have been working on some projects related to hotels and tourism as Backend and Fullstack Developer at Jacidi Company.
+* I worked on some projects related to hotels and tourism as Backend Developer at Jacidi Company.
 * Actually working on a project develop in Python and Django, related to access control devices of a company.
 
 
